@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mts.rlx7?igsh=d3RpZ2tnaTNyZzc1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-carvalho-87080a251/)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31kzcxf4xzre2xtoqph4ojbmb2o4?si=GqcJpUJPQJa4FA8hK-jU-w)
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMts&show_icons=true&theme=radical)
 
