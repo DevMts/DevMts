@@ -40,6 +40,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="25"/>
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="25" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="25" />
 </div>
 
 #
